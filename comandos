@@ -1,0 +1,6 @@
+dentro do venv
+criar requirements=pip freeze > requirements.txt
+instalar requirements=pip install -r requirements.txt
+
+para ativar o ambiente=source curso_gemini/Scripts/Activate
+para desativar o ambiente=deactivate
